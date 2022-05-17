@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Sam",
+      "image": "https://static.wikia.nocookie.net/muppet/images/2/20/Sam.jpg/revision/latest/scale-to-width-down/550?cb=20200303055107",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "NewBuzz",
+      "image": "https://cdn.shopify.com/s/files/1/0821/2085/products/41aXnGlDVrL_1024x1024.jpg?v=1428776088",
+      "likes": 3,
+      "id": 10
+    },
+    {
+      "name": "NewBuzz",
+      "image": "https://cdn.shopify.com/s/files/1/0821/2085/products/41aXnGlDVrL_1024x1024.jpg?v=1428776088",
+      "likes": 4,
+      "id": 11
+    },
+    {
+      "name": "NewBuzz",
+      "image": "https://cdn.shopify.com/s/files/1/0821/2085/products/41aXnGlDVrL_1024x1024.jpg?v=1428776088",
+      "likes": 6,
+      "id": 12
     }
   ]
 }
